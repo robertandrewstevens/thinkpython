@@ -22,10 +22,10 @@ by Charles Severance
 14 Using databases and Structured Query Language (SQL)  
 15 Visualizing data  
 16 Automating common tasks on your computer  
-A  Python Programming on Windows  
-B  Python Programming on Macintosh  
-C  Contributions  
-D  Copyright Detail
+aA  Python Programming on Windows  
+aB  Python Programming on Macintosh  
+aC  Contributions  
+aD  Copyright Detail
 
 *Think Python: How to Think Like a Computer Scientist* (Version 2.0.10 May 2013)
 
