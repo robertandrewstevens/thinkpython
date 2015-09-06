@@ -9,7 +9,7 @@ output: html_document
 
 by Charles Severance
 
-Appendix A: Python Programming on Windows
+# Appendix A: Python Programming on Windows
 
 In this appendix, we walk through a series of steps so you can run Python on Windows. There are many different approaches you can take, and this is just one approach to keep things simple.
 
